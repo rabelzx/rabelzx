@@ -1,6 +1,6 @@
 <div align="left" >
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rabelo21&show_icons=true&border_color=00000000&theme=dark&icon_color=A31ACB&bg_color=00000000&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rabelo21&hide_border=true&layout=compact&theme=dark&bg_color=00000000">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rabelo21&hide_border=true&layout=compact&theme=dark&bg_color=00000000">
 </div>
 <div style="display: inline_block"> <br>
   <img align="center" alt="Eric-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
