@@ -1,6 +1,6 @@
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rabelo21&show_icons=true&theme=vue-dark&bg_color=00000000&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rabelo21&layout=compact&theme=vue-dark&bg_color=00000000&&hide_border=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rabelo21&show_icons=true&theme=dark&icon_color=A31ACB&bg_color=00000000&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rabelo21&layout=compact&theme=dark&bg_color=00000000&&hide_border=true">
 </div>
 <div style="display: inline_block"> <br>
   <img align="center" alt="Eric-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -14,6 +14,5 @@
 ##
 
 <div>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:eric.rabelo21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">
 </div>
