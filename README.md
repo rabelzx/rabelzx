@@ -15,3 +15,5 @@
 <div>
   <a href = "mailto:eric.rabelo21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">
 </div>
+  
+ <img src="c5feea27149b24a0832af81548581602.gif" height='282px' width='350px' align=bottom>
