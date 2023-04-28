@@ -14,5 +14,6 @@
 ##
 <div>
   <a href = "mailto:eric.rabelo21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">
+  <a href = "https://www.linkedin.com/in/eric-rabelo-a7a943230"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </div>
 
