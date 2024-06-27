@@ -11,6 +11,6 @@
 
 ### Você pode me encontrar aqui
 
-[![My Skills](https://skillicons.dev/icons?i=gmail)]()
-[![My Skills](https://skillicons.dev/icons?i=linkedin)]([#](https://www.linkedin.com/in/rabelzx/))
+[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:exemplo@dominio.com)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rabelzx/)
 
