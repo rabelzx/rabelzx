@@ -1,6 +1,6 @@
 <img  align="right" src="fire.gif" height='370px' width='370px'>
-<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=rabelzx&show_icons=true&border_color=00000000&include_all_commits=true&count_private=true&theme=shadow_red"/>
-<img  height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=rabelzx&border_color=00000000&layout=compact&theme=shadow_red">
+<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=rabelzx&theme=shadow_red"/>
+<img  height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=rabelzx&layout=compact&theme=shadow_red">
   
 <br>
 
