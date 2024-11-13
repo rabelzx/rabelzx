@@ -1,3 +1,4 @@
+<img  align="right" src="Oh My Is That a Ghost_.gif" height='370px' width='370px'>
 <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=rabelzx&theme=shadow_red"/>
 <img  height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=rabelzx&layout=compact&theme=shadow_red">
   
